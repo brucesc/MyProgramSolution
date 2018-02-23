@@ -1,0 +1,6 @@
+C:\repos\C#\MyProgramSolution\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\repos\C#\MyProgramSolution\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\repos\C#\MyProgramSolution\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\repos\C#\MyProgramSolution\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\repos\C#\MyProgramSolution\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\repos\C#\MyProgramSolution\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
